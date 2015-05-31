@@ -1,0 +1,4 @@
+- create database
+- push project to git
+- setup project on your laptop
+- explain lumen

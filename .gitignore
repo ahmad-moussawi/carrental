@@ -2,3 +2,4 @@
 .env
 /nbproject/private
 node_modules
+.sass-cache

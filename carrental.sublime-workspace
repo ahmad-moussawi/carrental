@@ -1,0 +1,1510 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"coun",
+				"countryid"
+			],
+			[
+				"add",
+				"addressid"
+			],
+			[
+				"country",
+				"countryid"
+			],
+			[
+				"addres",
+				"addresses"
+			],
+			[
+				"count",
+				"countryid"
+			],
+			[
+				"Addres",
+				"AddressService"
+			],
+			[
+				"sub",
+				"subregions"
+			],
+			[
+				"subre",
+				"subregions"
+			],
+			[
+				"region",
+				"region_id"
+			],
+			[
+				"Add",
+				"AddressService"
+			],
+			[
+				"succe",
+				"successfully"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"regio",
+				"regions"
+			],
+			[
+				"ini",
+				"initializingIndicator"
+			],
+			[
+				"addr",
+				"addresses"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"status-",
+				"status-dispatched"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"br",
+				"branchid"
+			],
+			[
+				"address",
+				"addressId"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"S",
+				"SintonyBold"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"credi",
+				"creditDiscount"
+			],
+			[
+				"bi",
+				"bitfoodDiscount"
+			],
+			[
+				"user",
+				"userCredit"
+			],
+			[
+				"delive",
+				"deliveryCharge"
+			],
+			[
+				"dev",
+				"deliveryCharge"
+			],
+			[
+				"to",
+				"toast"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"cou",
+				"countryid"
+			],
+			[
+				"get",
+				"getUrl"
+			],
+			[
+				"pram",
+				"params"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"return",
+				"return_path"
+			],
+			[
+				"setVi",
+				"setViewValue"
+			],
+			[
+				"deli",
+				"deliveryType"
+			],
+			[
+				"mi",
+				"minute"
+			],
+			[
+				"minute",
+				"minutesInterval"
+			],
+			[
+				"hours",
+				"hoursInterval"
+			],
+			[
+				"deliv",
+				"deliveryTypes"
+			],
+			[
+				"deliveryTyp",
+				"deliveryType"
+			],
+			[
+				"del",
+				"deliveryMethod"
+			],
+			[
+				"mo",
+				"modifier"
+			],
+			[
+				"mod",
+				"modifiersId"
+			],
+			[
+				"modifi",
+				"modifiersId"
+			],
+			[
+				"modif",
+				"modifiersId"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"bran",
+				"branchid"
+			],
+			[
+				"de",
+				"defaultValue"
+			],
+			[
+				"counr",
+				"countryid"
+			],
+			[
+				"bra",
+				"brandId"
+			],
+			[
+				"branch",
+				"branchId"
+			],
+			[
+				"branc",
+				"branchId"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"ep",
+				"ellipsis"
+			],
+			[
+				"sel",
+				"selection"
+			],
+			[
+				"addi",
+				"additional"
+			],
+			[
+				"adi",
+				"additional"
+			],
+			[
+				"storageK",
+				"storageKey"
+			],
+			[
+				"se",
+				"selectionTotal"
+			],
+			[
+				"det",
+				"detailsCache"
+			],
+			[
+				"light",
+				"lighten"
+			],
+			[
+				"mode",
+				"modifiers"
+			],
+			[
+				"font-wei",
+				"font-weight"
+			],
+			[
+				"che",
+				"checkboxes"
+			],
+			[
+				"ch",
+				"checkboxes"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"con",
+				"contains"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"AppRes",
+				"AppRestaurantsSubmitReviewCtrl"
+			],
+			[
+				"retu",
+				"return_path"
+			],
+			[
+				"bas",
+				"basket_items"
+			],
+			[
+				"countr",
+				"countryid"
+			],
+			[
+				"subregion",
+				"subregionid"
+			],
+			[
+				"quest",
+				"questionId"
+			],
+			[
+				"sto",
+				"storageEngine"
+			],
+			[
+				"engin",
+				"engines"
+			],
+			[
+				"st",
+				"storageEngine"
+			],
+			[
+				"ca",
+				"cacheFactory"
+			],
+			[
+				"a",
+				"arguments"
+			],
+			[
+				"memo",
+				"memoryStorage"
+			],
+			[
+				"session",
+				"sessionStorage"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"remove",
+				"removeItem"
+			],
+			[
+				"eng",
+				"engine"
+			],
+			[
+				"en",
+				"engine"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"abso",
+				"absolute"
+			],
+			[
+				"op",
+				"op	opacity"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"db",
+				"d:b	display:block"
+			],
+			[
+				"su",
+				"suggest"
+			],
+			[
+				"state",
+				"stateParams"
+			],
+			[
+				"fold",
+				"folder_exclude_patterns"
+			],
+			[
+				"Full",
+				"FullName"
+			],
+			[
+				"SIgn",
+				"SignerId"
+			],
+			[
+				"select",
+				"selectRow"
+			],
+			[
+				"Ac",
+				"AccountSigners"
+			],
+			[
+				"child",
+				"childScope"
+			],
+			[
+				"OP",
+				"OpeningDate"
+			],
+			[
+				"gri",
+				"gridDataInterceptor"
+			],
+			[
+				"Curre",
+				"Currency"
+			],
+			[
+				"cont",
+				"contacts"
+			],
+			[
+				"Create",
+				"CreatedAt"
+			],
+			[
+				"my",
+				"myPassword"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sassBe",
+				"SassBeautify"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"UP",
+				"Convert Case: Upper Case"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/d/web/bitfood/website/resources/assets/sass/sections/_list.scss",
+		"/d/web/bitfood/website/resources/assets/sass/styles.scss",
+		"/d/web/bitfood/website/public/app/default/filters.js",
+		"/d/web/bitfood/website/public/app/default/helpers.js",
+		"/d/web/bitfood/website/resources/views/app.blade.php",
+		"/d/web/bitfood/website/public/app/default/directives.js",
+		"/D/web/bitfood/website/public/app/default/partials/location-picker.html",
+		"/d/web/bitfood/website/public/app/default/services.js",
+		"/d/web/bitfood/website/public/app/default/partials/main.html",
+		"/d/web/bitfood/website/public/app/default/app.js",
+		"/d/web/bitfood/website/public/app/default/controllers.js",
+		"/D/web/parentville/api/data/err.log",
+		"/D/web/bitfood/website/gulpfile.js",
+		"/D/web/bitfood/website/public/css/ngDialog/ngDialog.css",
+		"/D/web/bitfood/website/public/js/angular/angular-aria.js",
+		"/D/web/bitfood/website/.jshintrc",
+		"/d/web/bitfood/website/public/app/default/partials/recent.html",
+		"/d/web/bitfood/website/public/app/default/partials/restaurants-details.html",
+		"/d/web/bitfood/website/public/app/default/partials/restaurants-reviews.html",
+		"/d/web/bitfood/website/public/app/default/partials/addresses-edit.html",
+		"/D/web/bitfood/website/public/app/default/partials/myaccount.html",
+		"/d/web/bitfood/website/resources/views/home.blade.php",
+		"/d/web/bitfood/website/public/app/default/partials/addresses.html",
+		"/d/web/bitfood/website/public/app/auth/services.js",
+		"/D/web/bitfood/website/public/js/angular/loading-bar.js",
+		"/d/web/bitfood/website/public/app/auth/app.js",
+		"/d/web/bitfood/website/public/app/default/partials/confirm-address.html",
+		"/D/web/bitfood/website/public/app/default/partials/addresses.html",
+		"/D/web/bitfood/website/public/app/default/partials/track.html",
+		"/d/web/bitfood/website/public/app/default/partials/thankyou.html",
+		"/D/web/bitfood/website/public/js/angular/docs/components/google-code-prettify-1.0.1/src/lang-hs.js",
+		"/D/web/bitfood/website/public/app/default/partials/addresses-edit.html",
+		"/D/web/bitfood/website/public/app/default/partials/recent.html",
+		"/d/web/bitfood/website/public/app/default/partials/checkout.html",
+		"/d/web/bitfood/website/public/app/default/partials/restaurants.html",
+		"/D/project/omega - bitfood/missing-api.md",
+		"/D/web/demo/darine/index.html",
+		"/D/web/demo/darine/js/main.js",
+		"/D/web/demo/darine/css/main.css",
+		"/D/web/demo/darine/css/bootstrap.css",
+		"/D/web/bitfood/website/public/app/default/partials/confirm-address.html",
+		"/d/web/bitfood/website/public/app/default/partials/basket.html",
+		"/D/web/bitfood/website/public/app/default/partials/thankyou.html",
+		"/d/web/bitfood/website/resources/assets/sass/sections/_input.scss",
+		"/C/Users/ahmad/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/D/web/bitfood/website/public/app/default/partials/test.html",
+		"/C/Users/ahmad/AppData/Roaming/Sublime Text 2/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/d/web/bitfood/website/resources/assets/sass/components/_form.scss",
+		"/d/web/bitfood/website/public/app/default/partials/menu-details.html",
+		"/D/web/bitfood/website/public/app/default/partials/checkout.html",
+		"/D/web/bitfood/website/public/js/amStorage.js",
+		"/D/web/bitfood/website/public/app/default/partials/basket.html",
+		"/d/web/bitfood/website/public/app/default/partials/item-details.html",
+		"/D/web/bitfood/website/resources/assets/sass/sections/_list.scss",
+		"/D/web/bitfood/website/public/app/default/partials/menu-details.html",
+		"/d/web/bitfood/website/resources/assets/sass/materialize.scss",
+		"/d/web/bitfood/website/resources/assets/sass/components/_color.scss",
+		"/D/web/bitfood/website/resources/assets/sass/sections/_accordion.scss",
+		"/d/web/bitfood/website/resources/assets/sass/components/_mixin.scss",
+		"/d/web/bitfood/website/resources/assets/sass/components/_toast.scss",
+		"/D/web/bitfood/website/public/css/styles.css",
+		"/D/project/argus/Merge Databases Issue/sql scripts used/round2/cp5.sql",
+		"/D/project/argus/Merge Databases Issue/sql scripts used/round2/cp4.sql",
+		"/D/project/argus/Merge Databases Issue/sql scripts used/round2/cp3.sql",
+		"/D/project/argus/Merge Databases Issue/sql scripts used/round2/cp2.sql",
+		"/D/project/argus/Merge Databases Issue/reports/round2/cp4.md",
+		"/D/project/argus/Merge Databases Issue/reports/round2/cp3.md",
+		"/D/project/argus/Merge Databases Issue/reports/round2/cp2.md",
+		"/D/project/argus/Merge Databases Issue/reports/round2/cp5.md",
+		"/D/project/argus/Merge Databases Issue/reports/round2/email",
+		"/D/project/argus/Merge Databases Issue/sql scripts used/cp1.sql",
+		"/D/project/argus/Merge Databases Issue/sql scripts used/cp2.sql",
+		"/D/project/argus/Merge Databases Issue/sql scripts used/cp3.sql",
+		"/D/project/argus/Merge Databases Issue/sql scripts used/cp4.sql",
+		"/D/project/argus/Merge Databases Issue/sql scripts used/cp5.sql",
+		"/D/project/argus/Merge Databases Issue/sql scripts used/hq.sql",
+		"/D/project/argus/Merge Databases Issue/sql scripts used/locations.html",
+		"/D/web/bitfood/website/public/js/amCache.js",
+		"/D/web/bitfood/website/public/app/default/partials/item-details.html",
+		"/D/web/bitfood/website/public/css/ngDialog/ngDialog-theme-default.css",
+		"/d/web/bitfood/website/public/app/default/partials/restaurants-submitreview.html",
+		"/D/repositories/amStorage/dist/amCache.js",
+		"/d/web/bitfood/website/public/app/auth/controllers.js",
+		"/D/repositories/amStorage/src/amStorage.js",
+		"/D/repositories/amStorage/src/amCache.js",
+		"/D/repositories/amStorage/test/protactor.js",
+		"/D/web/dev4/app/data/articles/nginx-php-fpm-centos6.md",
+		"/D/web/bitfood/website/resources/assets/typescript/index.ts",
+		"/D/web/bitfood/website/resources/assets/typescript/modulea/modulea.ts",
+		"/D/web/bitfood/website/resources/assets/typescript/filea.ts",
+		"/D/web/bitfood/website/public/js/app.js",
+		"/D/web/bitfood/website/bitfood-website.sublime-project",
+		"/D/workspace/byblos-app3-certificate-pinning/android2/android/www/scripts/soap.js",
+		"/D/workspace/byblos-app3-certificate-pinning/android2/android/www/scripts/services/byblos.services.authentication.js",
+		"/D/workspace/byblos-app3-certificate-pinning/android/www/scripts/main.js",
+		"/D/workspace/byblos-app3-certificate-pinning/android/www/views/login/login.html",
+		"/D/workspace/byblos-app3-certificate-pinning/android/www/scripts/soap.js",
+		"/D/workspace/byblos-app3-certificate-pinning/android/www/scripts/utils.js",
+		"/D/workspace/byblos-app3-certificate-pinning/android/www/modules/byblos.login.js",
+		"/D/workspace/byblos-app3-certificate-pinning/android/www/scripts/services/byblos.services.authentication.js",
+		"/d/web/bitfood/website/public/app/default/partials/layout.html",
+		"/D/web/bitfood/website/public/app/default/partials/restaurants-submitreview.html",
+		"/D/project/omega - bitfood/servers.mdown",
+		"/d/web/bitfood/website/resources/assets/sass/sections/snap.css",
+		"/D/web/bitfood/website/resources/assets/sass/sections/_snap.scss",
+		"/d/web/bitfood/website/resources/assets/sass/sections/angular-snap-only.css",
+		"/D/web/bitfood/website/public/app/auth/controllers.js",
+		"/D/web/bitfood/website/app/Http/routes.php",
+		"/D/web/bitfood/website/resources/assets/sass/components/_mixin.scss",
+		"/D/web/bitfood/website/public/app/auth/app.js",
+		"/C/Users/ahmad/AppData/Roaming/Skype/My Skype Received Files/services.js",
+		"/d/web/bitfood/website/resources/assets/sass/sections/_loader.scss",
+		"/D/web/bitfood/website/public/app/default/partials/restaurants-details.html",
+		"/C/Users/ahmad/AppData/Roaming/Sublime Text 2/Packages/LiveReload/LiveReload.sublime-settings",
+		"/D/web/bitfood/website/resources/assets/sass/sections/_input.scss",
+		"/D/web/bitfood/website/resources/assets/sass/sections/_home.scss",
+		"/D/web/bitfood/website/public/app/default/partials/restaurants.html",
+		"/D/web/bitfood/website/public/app/default/partials/login.html",
+		"/D/web/bitfood/website/public/app/default/partials/register-confirm.html",
+		"/d/web/bitfood/website/resources/assets/sass/components/_variables.scss",
+		"/d/web/bitfood/website/resources/assets/sass/components/_buttons.scss",
+		"/d/web/bitfood/website/public/app/default/partials/register.html",
+		"/D/web/bitfood/website/public/app/default/partials/register.html",
+		"/d/web/bitfood/website/resources/assets/sass/components/_global.scss",
+		"/d/web/bitfood/website/resources/assets/sass/components/_typography.scss",
+		"/d/web/bitfood/website/resources/assets/sass/components/_modal.scss",
+		"/d/web/bitfood/website/resources/assets/sass/components/_materialbox.scss",
+		"/d/web/bitfood/website/resources/assets/sass/components/_navbar.scss"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"d:\\web\\bitfood\\website\\public\\app\\default",
+			"D:\\web\\bitfood\\website\\public",
+			"d:\\web\\bitfood\\website\\resources\\assets\\sass\\components",
+			"D:\\web\\tx\\tx\\web\\app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"exc\":",
+			",\"data\":",
+			"Empty row at line",
+			"=",
+			"$event['",
+			"model",
+			"country",
+			"model",
+			"id)",
+			"id",
+			"model",
+			"countryid",
+			"subregion",
+			").th",
+			"country",
+			"                    GeneralService",
+			"form",
+			"countryid",
+			"model.",
+			"h3",
+			"/item",
+			"item",
+			"<item",
+			"country",
+			"row",
+			"test2",
+			"test1",
+			"$rootScop",
+			"lon1",
+			"country",
+			"country_id",
+			"model.",
+			"country",
+			"data",
+			"model.",
+			"country",
+			"address",
+			"model.",
+			"l.",
+			".",
+			"id",
+			"clear",
+			"id",
+			"edit",
+			"id",
+			",",
+			"model.address.",
+			"countryid",
+			"regionid",
+			"$scope",
+			"\\\"",
+			"valid-method=\"submit\"",
+			"validator=\"required\" ",
+			"\" />",
+			"<div class=\"value\">{{",
+			"regions",
+			"address",
+			"ng-show=",
+			"\"input-row",
+			"review",
+			"AddressService",
+			"strong",
+			"th",
+			"div",
+			"current",
+			"recent",
+			"data",
+			"- ",
+			"dLon",
+			"double",
+			"lat1",
+			"geolocation_msgs",
+			"errKey",
+			"geolocation_msgs['errors.location.permissionDenied']",
+			"geolocation_msgs",
+			"button",
+			"ngDialog",
+			"a",
+			"recent",
+			"order",
+			"span",
+			"&.status-",
+			"span",
+			"thankyou",
+			"track",
+			"span",
+			"$http",
+			"data",
+			"/api/?action=",
+			"r.",
+			"r",
+			"GeneralSer",
+			"r.data.response",
+			"AddressService",
+			"$backend",
+			"model.address.",
+			"30",
+			"baner",
+			"regular",
+			"glyphicons-halflings-regular",
+			"font",
+			"media",
+			"checkout",
+			".value()",
+			"$scope.max()",
+			"$scope.max",
+			";\n",
+			"list",
+			"listitem",
+			"BasketC",
+			"Basket",
+			"address",
+			"country",
+			" class=\"active\"",
+			"field",
+			"yello",
+			"addres",
+			"Backend",
+			"address",
+			"confi",
+			"amStorage",
+			"amStor",
+			"amStorage.get('return_path')",
+			"regions",
+			"countryId",
+			"region",
+			"amStorage.set",
+			"amStorage.get"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Session.put",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app.js",
+				"App (default)/app.js"
+			],
+			[
+				"service",
+				"App (default)/services.js"
+			],
+			[
+				"ngdialog.css",
+				"Project/public/css/ngDialog/ngDialog.css"
+			],
+			[
+				"angular-ar",
+				"Project/public/js/angular/angular-aria.js"
+			],
+			[
+				"defaultapp",
+				"App (default)/app.js"
+			],
+			[
+				"app.blad",
+				"Views/app.blade.php"
+			],
+			[
+				"contro",
+				"App (default)/controllers.js"
+			],
+			[
+				"directi",
+				"App (default)/directives.js"
+			],
+			[
+				"filters",
+				"App (default)/filters.js"
+			],
+			[
+				"helper",
+				"App (default)/helpers.js"
+			],
+			[
+				"gulp",
+				"Project/gulpfile.js"
+			],
+			[
+				"main",
+				"App (default)/partials/main.html"
+			],
+			[
+				"servi",
+				"App (default)/services.js"
+			],
+			[
+				"conto",
+				"App (default)/controllers.js"
+			],
+			[
+				"home",
+				"Views/home.blade.php"
+			],
+			[
+				"_list",
+				"Sass/sections/_list.scss"
+			],
+			[
+				"app.j",
+				"App (default)/app.js"
+			],
+			[
+				"load",
+				"Project/public/js/angular/loading-bar.js"
+			],
+			[
+				"authser",
+				"App (auth)/services.js"
+			],
+			[
+				"direc",
+				"App (default)/directives.js"
+			],
+			[
+				"app.bla",
+				"Views/app.blade.php"
+			],
+			[
+				"app",
+				"App (auth)/app.js"
+			],
+			[
+				"app.",
+				"App (default)/app.js"
+			],
+			[
+				"confirm",
+				"App (default)/partials/confirm-address.html"
+			],
+			[
+				"confirm-ad",
+				"App (default)/partials/confirm-address.html"
+			],
+			[
+				"address",
+				"App (default)/partials/addresses-edit.html"
+			],
+			[
+				"addres",
+				"App (default)/partials/addresses.html"
+			],
+			[
+				"control",
+				"App (default)/controllers.js"
+			],
+			[
+				"serv",
+				"App (default)/services.js"
+			],
+			[
+				"rest",
+				"App (default)/partials/restaurants-details.html"
+			],
+			[
+				"review",
+				"App (default)/partials/restaurants-reviews.html"
+			],
+			[
+				"rece",
+				"App (default)/partials/recent.html"
+			],
+			[
+				"app.bl",
+				"Views/app.blade.php"
+			],
+			[
+				"app.hs",
+				"Project/public/js/angular/docs/components/google-code-prettify-1.0.1/src/lang-hs.js"
+			],
+			[
+				"filter",
+				"App (default)/filters.js"
+			],
+			[
+				"recen",
+				"App (default)/partials/recent.html"
+			],
+			[
+				"restar",
+				"App (default)/partials/restaurants.html"
+			],
+			[
+				"fil",
+				"App (default)/filters.js"
+			],
+			[
+				"checkou",
+				"App (default)/partials/checkout.html"
+			],
+			[
+				"styl",
+				"Sass/styles.scss"
+			],
+			[
+				"thank",
+				"App (default)/partials/thankyou.html"
+			],
+			[
+				"con",
+				"App (default)/controllers.js"
+			],
+			[
+				"dire",
+				"App (default)/directives.js"
+			],
+			[
+				"help",
+				"App (default)/helpers.js"
+			],
+			[
+				"check",
+				"App (default)/partials/checkout.html"
+			],
+			[
+				"bask",
+				"App (default)/partials/basket.html"
+			],
+			[
+				"basket.html",
+				"App (default)/partials/basket.html"
+			],
+			[
+				"_input.",
+				"Sass/sections/_input.scss"
+			],
+			[
+				"_form",
+				"Sass/components/_form.scss"
+			],
+			[
+				"basket",
+				"App (default)/partials/basket.html"
+			],
+			[
+				"ams",
+				"Project/public/js/amStorage.js"
+			],
+			[
+				"item-de",
+				"App (default)/partials/item-details.html"
+			],
+			[
+				"amstor",
+				"Project/public/js/amStorage.js"
+			],
+			[
+				"ser",
+				"App (default)/services.js"
+			],
+			[
+				"inpu",
+				"Sass/sections/_input.scss"
+			],
+			[
+				"sty",
+				"Sass/styles.scss"
+			],
+			[
+				"menu-",
+				"App (default)/partials/menu-details.html"
+			],
+			[
+				"mater",
+				"Sass/materialize.scss"
+			],
+			[
+				"_colo",
+				"Sass/components/_color.scss"
+			],
+			[
+				"_toa",
+				"Sass/components/_toast.scss"
+			],
+			[
+				"res",
+				"App (default)/partials/restaurants.html"
+			],
+			[
+				"styles",
+				"Project/public/css/styles.css"
+			],
+			[
+				"mixin",
+				"Sass/components/_mixin.scss"
+			],
+			[
+				"deta",
+				"App (default)/partials/restaurants-details.html"
+			],
+			[
+				"cont",
+				"App (default)/controllers.js"
+			],
+			[
+				"theme-de",
+				"Project/public/css/ngDialog/ngDialog-theme-default.css"
+			],
+			[
+				"amcah",
+				"Project/public/js/amCache.js"
+			],
+			[
+				"amsto",
+				"Project/public/js/amStorage.js"
+			],
+			[
+				"detai",
+				"App (default)/partials/restaurants-details.html"
+			],
+			[
+				"detail",
+				"App (default)/partials/restaurants-details.html"
+			],
+			[
+				"di",
+				"App (default)/directives.js"
+			],
+			[
+				"amstora",
+				"Project/public/js/amStorage.js"
+			],
+			[
+				"amcach",
+				"Project/public/js/amCache.js"
+			],
+			[
+				"amss",
+				"Project/public/js/amStorage.js"
+			],
+			[
+				"amst",
+				"Project/public/js/amStorage.js"
+			],
+			[
+				"amca",
+				"amStorage/dist/amCache.js"
+			],
+			[
+				"reviews",
+				"App (default)/partials/restaurants-reviews.html"
+			],
+			[
+				"authcontroller",
+				"App (auth)/controllers.js"
+			],
+			[
+				"hel",
+				"App (default)/helpers.js"
+			],
+			[
+				"details",
+				"App (default)/partials/restaurants-details.html"
+			],
+			[
+				"loadin",
+				"Project/public/js/angular/loading-bar.js"
+			],
+			[
+				"conr",
+				"App (default)/controllers.js"
+			],
+			[
+				"authse",
+				"App (auth)/services.js"
+			],
+			[
+				"contr",
+				"App (default)/controllers.js"
+			],
+			[
+				"resta",
+				"App (default)/partials/restaurants-details.html"
+			],
+			[
+				"hom",
+				"Views/home.blade.php"
+			],
+			[
+				"layout",
+				"App (default)/partials/layout.html"
+			],
+			[
+				"route",
+				"Project/app/Http/routes.php"
+			],
+			[
+				"form.s",
+				"Sass/components/_form.scss"
+			],
+			[
+				"_glo",
+				"Sass/components/_global.scss"
+			],
+			[
+				"_typo",
+				"Sass/components/_typography.scss"
+			],
+			[
+				"_button",
+				"Sass/components/_buttons.scss"
+			],
+			[
+				"_grid",
+				"Sass/components/_grid.scss"
+			],
+			[
+				"_globa",
+				"Sass/components/_global.scss"
+			],
+			[
+				"navbar",
+				"Sass/components/_navbar.scss"
+			],
+			[
+				"_varia",
+				"Sass/components/_variables.scss"
+			],
+			[
+				"_nav",
+				"Sass/components/_navbar.scss"
+			],
+			[
+				"adminlayout",
+				"WebApp/admin/partials/layout.html"
+			],
+			[
+				"side",
+				"Sass/sections/side-navigation.scss"
+			],
+			[
+				"main.",
+				"Web/main.js"
+			],
+			[
+				"_layou",
+				"tx/Views/Shared/_Layout.cshtml"
+			],
+			[
+				"defaultlay",
+				"WebApp/default/partials/layout.html"
+			],
+			[
+				"securitylayou",
+				"WebApp/security/partials/layout.html"
+			],
+			[
+				"adminlayou",
+				"WebApp/admin/partials/layout.html"
+			],
+			[
+				"adminapp",
+				"WebApp/admin/app.js"
+			],
+			[
+				"defaultdirec",
+				"WebApp/default/directives.js"
+			],
+			[
+				"defaultlayou",
+				"WebApp/default/partials/layout.html"
+			],
+			[
+				"budl",
+				"tx/App_Start/BundleConfig.cs"
+			],
+			[
+				"st",
+				"Sass/style.scss"
+			],
+			[
+				"_layout",
+				"tx/Views/Shared/_Layout.cshtml"
+			],
+			[
+				"auth/ap",
+				"Web/auth/app.js"
+			],
+			[
+				"bank",
+				"Models/Bank.cs"
+			],
+			[
+				"defaultdire",
+				"Web/default/directives.js"
+			],
+			[
+				"side-nav",
+				"Web/default/partials/side-navigation.html"
+			],
+			[
+				"appcontroller.js",
+				"tx/web/app/admin/controllers.js"
+			],
+			[
+				"authapp",
+				"Web/auth/app.js"
+			],
+			[
+				"read",
+				"tx/readme.md"
+			],
+			[
+				"authserv",
+				"Web/auth/services.js"
+			],
+			[
+				"auth/serve",
+				"Web/auth/services.js"
+			],
+			[
+				"webapp",
+				"Web/default/app.js"
+			],
+			[
+				"authservi",
+				"Web/auth/services.js"
+			],
+			[
+				"admindire",
+				"Web/admin/directives.js"
+			],
+			[
+				"bundl",
+				"tx/App_Start/BundleConfig.cs"
+			],
+			[
+				"basemo",
+				"Models/BaseModel.cs"
+			],
+			[
+				"compa",
+				"Models/Company.cs"
+			],
+			[
+				"c",
+				"Models/Company.cs"
+			],
+			[
+				"admincontroler",
+				"tx/web/app/admin/controllers.js"
+			],
+			[
+				"admincontroller",
+				"tx/web/app/admin/controllers.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/web/tx/tx.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true
+}
