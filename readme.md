@@ -2,6 +2,9 @@
 
 ## Installation 
 
+Clone this repository:
+ - `git clone http://github.com/ahmad-moussawi/carrental.git`
+
 Install composer dependencies
  - `composer install`
 
